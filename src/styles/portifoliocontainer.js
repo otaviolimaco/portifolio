@@ -18,7 +18,42 @@ export const PortifolioContainerStyles = styled.div`
 
     h1 {
         font-size: 32px;
-        color: #BABDBF;
+        color: #fff;
     }
 
+    footer {
+        margin-top: auto;
+        bottom: 0;
+        height: 40px;
+        width: 100%;
+        font-size: 12px;
+        background-color: #0D0D0D;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 0 0 22px 22px;
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  p {
+    font-size: 16px;
+    color: #BABDBF;
+  }
+
+  span {
+    margin-top: 260px;
+  }
+
+  a {
+    color: #fff;
+    margin-right: 12px;
+    margin-left: 12px;
+    font-size: 24px;
+    transition: 250ms all;
+
+    &:hover {
+        color: #BABDBF;
+    }
+  }
 `
