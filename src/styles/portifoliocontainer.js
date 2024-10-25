@@ -41,7 +41,7 @@ export const PortifolioContainerStyles = styled.div`
     color: #BABDBF;
   }
 
-  span {
+  .span_1 {
     margin-top: 260px;
   }
 
@@ -54,6 +54,38 @@ export const PortifolioContainerStyles = styled.div`
 
     &:hover {
         color: #BABDBF;
+    }
+  }
+
+  .span_2 {
+    position: absolute;
+    margin-top: 340px;
+  }
+
+  .a_2 {
+    font-size: 92px;
+    transition: 250ms all;
+
+    &:hover {
+        color: #61DAFB;
+    }
+  }
+
+  .a_3 {
+    font-size: 92px;
+    transition: 250ms all;
+
+    &:hover {
+        color: #007ACC;
+    }
+  }
+
+  .a_4 {
+    font-size: 92px;
+    transition: 250ms all;
+
+    &:hover {
+        color: #E94E32;
     }
   }
 `
