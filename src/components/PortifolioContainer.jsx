@@ -19,7 +19,7 @@ function PortifolioContainer() {
             </span>
             <span className="span_1">
                 <a href="https://www.instagram.com/lima7sc_/"><FaInstagram /></a>
-                <a href="https://github.com/ottaviolima"><FaGithub /></a>
+                <a href="https://github.com/otaviodevzl"><FaGithub /></a>
             </span>
             <footer>© 2024 Otávio Lima. Todos os direitos reservados.</footer>
         </PortifolioContainerStyles>
