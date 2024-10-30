@@ -18,8 +18,8 @@ function PortifolioContainer() {
                 <a className="a_4" alt="Git"><FaGitAlt /></a>
             </span>
             <span className="span_1">
-                <a href="https://www.instagram.com/lima7sc_/"><FaInstagram /></a>
-                <a href="https://github.com/otaviodevzl"><FaGithub /></a>
+                <a href="https://www.instagram.com/limascc_/"><FaInstagram /></a>
+                <a href="https://github.com/otaviolimaco"><FaGithub /></a>
             </span>
             <footer>© 2024 Otávio Lima. Todos os direitos reservados.</footer>
         </PortifolioContainerStyles>
